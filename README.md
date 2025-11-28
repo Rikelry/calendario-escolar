@@ -28,12 +28,12 @@ O projeto possui um calendário interativo que renderiza dinamicamente os dias d
 
 🚀 Funcionalidades
 
-*✔️ Renderização automática de calendários mensais
-*✔️ Adição de eventos (provas, feriados, aulas, etc)
-*✔️ Interface dinâmica
-*✔️ Organização modular usando POO
-*✔️ Suporte para diferentes tipos de eventos
-*✔️ Estrutura limpa e escalável
+*(x) Renderização automática de calendários mensais
+*(x) Adição de eventos (provas, feriados, aulas, etc)
+*(x) Interface dinâmica
+*(x) Organização modular usando POO
+*(x) Suporte para diferentes tipos de eventos
+*(x) Estrutura limpa e escalável
 
 ---
 
