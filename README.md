@@ -1,4 +1,4 @@
-🗓️ Calendário Escolar – Projeto em TypeScript
+# 🗓️ Calendário Escolar – Projeto em TypeScript
 <p align="center"> <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Versão-28d11m25-important?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Projeto+Acadêmico+de+Calendário+Escolar;Desenvolvido+em+TypeScript;Feito+para+ajudar+futuros+estudantes!&center=true&width=500&height=45"> </p>
 
 ---
