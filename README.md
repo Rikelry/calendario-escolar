@@ -18,37 +18,13 @@ O projeto possui um calendário interativo que renderiza dinamicamente os dias d
 
 ## 🏗️ Tecnologias Utilizadas
 
-TypeScript
-HTML5
-CSS3
-DOM Manipulation
-Paradigma orientado a objetos (POO)
+- TypeScript
+- HTML5
+- CSS3
+- DOM Manipulation
+- Paradigma orientado a objetos (POO)
 
 ---
-
-📁 Estrutura do Projeto
-projeto-calendario-escolar/
-│
-├─ src/
-│  ├─ app.ts
-│  ├─ calendario/
-│  │   ├─ Calendario.ts
-│  │   └─ Evento.ts
-│  ├─ ui/
-│  │   ├─ Interface.ts
-│  │   └─ Renderer.ts
-│  └─ utils/
-│      └─ Datas.ts
-│
-├─ public/
-│  ├─ index.html
-│  ├─ styles.css
-│  └─ images/
-│
-├─ dist/
-│
-├─ tsconfig.json
-└─ package.json
 
 🚀 Funcionalidades
 
@@ -59,14 +35,17 @@ projeto-calendario-escolar/
 ✔️ Suporte para diferentes tipos de eventos
 ✔️ Estrutura limpa e escalável
 
+---
+
 🖥️ Como Executar o Projeto
 1. Instalar dependências
+´´´bash
 npm install
-
-2. Compilar TypeScript
+´´´
+3. Compilar TypeScript
 tsc
 
-3. Executar no navegador
+4. Executar no navegador
 
 Abra o arquivo:
 
@@ -83,17 +62,18 @@ Você pode adicionar aqui prints do projeto futuramente:
 
 /public/images/preview.png
 
+---
+
 🧩 Como Adicionar Novos Eventos
 
-Preencha o formulário no topo da página
-
-Escolha o tipo de evento
-
-Informe a data
-
-Clique em Adicionar
+1. Preencha o formulário no topo da página
+2. Escolha o tipo de evento
+3. Informe a data
+4. Clique em Adicionar
 
 O evento aparecerá automaticamente no calendário
+
+---
 
 🏷️ Versionamento
 
