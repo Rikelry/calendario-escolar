@@ -26,22 +26,22 @@ O projeto possui um calendário interativo que renderiza dinamicamente os dias d
 
 ---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-*(x) Renderização automática de calendários mensais
-*(x) Adição de eventos (provas, feriados, aulas, etc)
-*(x) Interface dinâmica
-*(x) Organização modular usando POO
-*(x) Suporte para diferentes tipos de eventos
-*(x) Estrutura limpa e escalável
-
----
-
-🖥️ Como Executar o Projeto
+* Renderização automática de calendários mensais
+* Adição de eventos (provas, feriados, aulas, etc)
+* Interface dinâmica
+* Organização modular usando POO
+* Suporte para diferentes tipos de eventos
+* Estrutura limpa e escalável
 
 ---
 
-📌 Preview do Calendário
+## 🖥️ Como Executar o Projeto
+
+---
+
+## 📌 Preview do Calendário
 
 Você pode adicionar aqui prints do projeto futuramente:
 
@@ -49,7 +49,7 @@ Você pode adicionar aqui prints do projeto futuramente:
 
 ---
 
-🧩 Como Adicionar Novos Eventos
+## 🧩 Como Adicionar Novos Eventos
 
 1. Preencha o formulário no topo da página
 2. Escolha o tipo de evento
@@ -60,7 +60,7 @@ O evento aparecerá automaticamente no calendário
 
 ---
 
-🏷️ Versionamento
+## 🏷️ Versionamento
 
 Versão atual: 28d11m25
 
@@ -68,7 +68,7 @@ Liberada oficialmente em 28/11/2025
 
 Se quiser utilizar versionamento semântico (ex: v1.0.0), posso ajustar.
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas!
 Para sugerir melhorias:
@@ -77,10 +77,10 @@ Abra uma Issue
 
 Envie um Pull Request
 
-📜 Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT.
 
-💡 Autor
+## 💡 Autor
 
 Feito com dedicação por Rikelry Monteiro Souza
