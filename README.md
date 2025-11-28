@@ -6,11 +6,11 @@
 ## 📌 Sobre o Projeto
 O Calendário Escolar é um sistema desenvolvido em TypeScript com o objetivo de ajudar estudantes e instituições a visualizarem e gerenciarem eventos escolares, como:
 
-- 📚 Dias letivos
-- 📝 Provas e avaliações
-- 🎉 Eventos
-- 📅 Feriados
-- 🏖️ Períodos de recesso
+* 📚 Dias letivos
+* 📝 Provas e avaliações
+* 🎉 Eventos
+* 📅 Feriados
+* 🏖️ Períodos de recesso
 
 O projeto possui um calendário interativo que renderiza dinamicamente os dias do mês e exibe eventos cadastrados diretamente na interface.
 
@@ -18,11 +18,11 @@ O projeto possui um calendário interativo que renderiza dinamicamente os dias d
 
 ## 🏗️ Tecnologias Utilizadas
 
-- TypeScript
-- HTML5
-- CSS3
-- DOM Manipulation
-- Paradigma orientado a objetos (POO)
+* TypeScript
+* HTML5
+* CSS3
+* DOM Manipulation
+* Paradigma orientado a objetos (POO)
 
 ---
 
@@ -38,23 +38,8 @@ O projeto possui um calendário interativo que renderiza dinamicamente os dias d
 ---
 
 🖥️ Como Executar o Projeto
-1. Instalar dependências
-´´´bash
-npm install
-´´´
-3. Compilar TypeScript
-tsc
 
-4. Executar no navegador
-
-Abra o arquivo:
-
-public/index.html
-
-
-ou use um servidor local:
-
-npx live-server public
+---
 
 📌 Preview do Calendário
 
