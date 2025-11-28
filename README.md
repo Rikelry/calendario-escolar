@@ -1,13 +1,13 @@
 🗓️ Calendário Escolar – Projeto em TypeScript
 <p align="center"> <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Versão-28d11m25-important?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Projeto+Acadêmico+de+Calendário+Escolar;Desenvolvido+em+TypeScript;Feito+para+ajudar+futuros+estudantes!&center=true&width=500&height=45"> </p>
-## 📌 Sobre o Projeto
+##📌 Sobre o Projeto
 O Calendário Escolar é um sistema desenvolvido em TypeScript com o objetivo de ajudar estudantes e instituições a visualizarem e gerenciarem eventos escolares, como:
 
-📚 Dias letivos
-📝 Provas e avaliações
-🎉 Eventos
-📅 Feriados
-🏖️ Períodos de recesso
+- 📚 Dias letivos
+- 📝 Provas e avaliações
+- 🎉 Eventos
+- 📅 Feriados
+- 🏖️ Períodos de recesso
 
 O projeto possui um calendário interativo que renderiza dinamicamente os dias do mês e exibe eventos cadastrados diretamente na interface.
 
