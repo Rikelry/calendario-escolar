@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#calendario {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.dia {
+  border: 1px solid #ccc;
+  padding: 8px;
+  min-height: 80px;
+  position: relative;
+}
+
+.evento {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+.evento.prova { background: #ffd3d3; }
+.evento.feriado { background: #d3ffd3; }
+.evento.evento { background: #d3d9ff; }
+.evento.aula   { background: #fff3c4; }

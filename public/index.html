@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Calendário Escolar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Calendário Escolar</h1>
+
+  <div id="formulario">
+    <input id="titulo" type="text" placeholder="Título do evento">
+    <input id="data" type="date">
+    <select id="tipo">
+      <option value="prova">Prova</option>
+      <option value="feriado">Feriado</option>
+      <option value="evento">Evento</option>
+      <option value="aula">Dia Letivo</option>
+    </select>
+    <button id="btnAdicionar">Adicionar</button>
+  </div>
+
+  <div id="calendario" class="grid"></div>
+
+  <script type="module" src="../source/app.ts"></script>
+</body>
+</html>
