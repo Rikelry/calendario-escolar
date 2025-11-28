@@ -14,17 +14,17 @@ O Calendário Escolar é um sistema desenvolvido em TypeScript com o objetivo de
 
 O projeto possui um calendário interativo que renderiza dinamicamente os dias do mês e exibe eventos cadastrados diretamente na interface.
 
-🏗️ Tecnologias Utilizadas
+---
+
+## 🏗️ Tecnologias Utilizadas
 
 TypeScript
-
 HTML5
-
 CSS3
-
 DOM Manipulation
-
 Paradigma orientado a objetos (POO)
+
+---
 
 📁 Estrutura do Projeto
 projeto-calendario-escolar/
